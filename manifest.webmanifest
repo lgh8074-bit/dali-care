@@ -1,0 +1,13 @@
+{
+  "name": "달이 케어",
+  "short_name": "달이 케어",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f3",
+  "theme_color": "#fff7f2",
+  "description": "달이의 건강, 생활, 병원, 복약, 일정을 한곳에서 관리하는 개인용 로컬 웹앱",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
